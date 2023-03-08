@@ -1,0 +1,3 @@
+#!/bin/bash
+#Script to print the command pwd
+echo "pwd"
